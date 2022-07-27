@@ -1,0 +1,12 @@
+body {
+background-color: rgb(147, 226, 193); text-align: justify;
+}
+h1 {
+    color:darkgreen; text-align: center; font-size: 80px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: right; font-size: 60px;
+}
